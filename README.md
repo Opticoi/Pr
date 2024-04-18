@@ -1,4 +1,8 @@
 {
-  "عکس": "https://s18.picofile.com/file/8435045534/4b207f56809f332275ff459ae1e196ee.jpg",
-  "لینک": "https://s18.picofile.com/file/8435045534/4b207f56809f332275ff459ae1e196ee.jpg"
+  "عکس": "https://s30.picofile.com/file/8474488542/Picsart_24_04_19_01_27_41_494.jpg",
+  "لینک": "https://learn.rcs.ir/",
+  "عکس1": "https://s30.picofile.com/file/8474488542/Picsart_24_04_19_01_27_41_494.jpg",
+  "لینک1": "https://learn.rcs.ir/",
+  "عکس2": "https://s30.picofile.com/file/8474488542/Picsart_24_04_19_01_27_41_494.jpg",
+  "لینک2": "https://learn.rcs.ir/"
 }
